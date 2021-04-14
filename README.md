@@ -1,3 +1,4 @@
+Please feel free to run the main.sql file on a MYSQL compiler. All tasks and their corresponding code are commented in the main.sql file!
 
 Tasks implemented in my code:
 Write the commands for creating tables and inserting values;
@@ -23,4 +24,4 @@ Compute the grade for a student;
 Compute the grade for a student, where the lowest score for a given category is dropped.
 　
  
-Please feel free to run the main.sql file on a MYSQL compiler. All tasks and their corresponding code are commented in the main.sql file!
+
